@@ -1,6 +1,6 @@
 # Предсказание цены автомобилей
 __Задачи проекта__: 
-* обучить модель для определения рыночной стоимости автомобиля.
+* Обучить модель для определения рыночной стоимости автомобиля.
 
 __Вывод__: 
 * LightGBM лидер и по времени и по предсказанной ошибке.
@@ -17,4 +17,4 @@ __Теги__:
 * machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL.
 
 __Статус проекта__: 
-* завершен.
+* Завершен.
